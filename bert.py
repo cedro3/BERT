@@ -19,7 +19,7 @@ import collections
 import torch
 from torch import nn
 
-from utils.tokenizer import BasicTokenizer, WordpieceTokenizer
+from tokenizer import BasicTokenizer, WordpieceTokenizer
 
 
 def get_config(file_path):
