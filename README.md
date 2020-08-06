@@ -8,7 +8,7 @@ BERTによる英語データのネガポジ判定と判定根拠の可視化を�
 （参考）
 ・[つくりながら学ぶ! PyTorchによる発展ディープラーニング](https://github.com/YutaroOgawa/pytorch_advanced)
 # BERT_pretrained_model.ipynb
-日本語BERT_pretrained_modelを使って、穴埋め問題や文生成をやらせるコードです。\
+日本語BERT_pretrained_modelを使って、穴埋め問題や文生成をやらせるコードです。詳細は、[Qiita]()を参照下さい。\
 \
 （参考)\
 ・[BERT日本語モデルを使って、クリスマスプレゼントに欲しいものを推測してみた](https://www.cresco.co.jp/blog/entry/11517/)\
