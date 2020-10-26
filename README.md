@@ -3,7 +3,7 @@
 # BERT_IMDb.ipynb
 BERTによる英語データのネガポジ判定と判定根拠の可視化を行うコードです。\
 ・使用するデータセットはIMDbです。これは、映画のレビュー(英文)から文章を取り出し、それがポジテイブな表現なのか、ネガティブな表現なのかをまとめたものです。\
-・学習後、テスト文章で推論を行い、その文章のどの単語が判断根拠になっているか(Attention)を可視化します。詳細は、[Qiita](https://qiita.com/jun40vn/items/b7f32621ec7399baa3f8)を参照下さい。\
+・学習後、テスト文章で推論を行い、その文章のどの単語が判断根拠になっているか(Attention)を可視化します。詳細は、[cedro-blog](http://cedro3.com/ai/bert-negaposi/)を参照下さい。\
 \
 （参考）
 ・[つくりながら学ぶ! PyTorchによる発展ディープラーニング](https://github.com/YutaroOgawa/pytorch_advanced)
